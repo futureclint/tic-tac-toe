@@ -3,7 +3,7 @@ import './Game.css';
 function Game() {
   return (
     <div className="game">
-      <span className="temp">tic-tac-toe</span>
+      <h1>Tic Tac Toe</h1>
     </div>
   );
 }
