@@ -4,6 +4,8 @@ import './index.css';
 import Game from './Game';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
+// Renders the page
 root.render(
   <React.StrictMode>
     <Game />
